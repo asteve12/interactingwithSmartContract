@@ -1,0 +1,5 @@
+let say we want to work on a smart contract that have been deployed to a local blockchain network
+we use these scrript methods
+yarn hardhat node
+and to continue working on that same network we use 
+yarn hardhat run  scripts/deploy.ts --network localhost
